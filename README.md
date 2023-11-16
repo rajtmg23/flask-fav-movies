@@ -20,4 +20,6 @@ Flask Movie Manager is a web application designed for users to effortlessly mana
 ## Screenshots
 
 ![App Screenshot](snap1.png)
+![App Screenshot](snap2.png)
+![App Screenshot](snap3.png)
 
